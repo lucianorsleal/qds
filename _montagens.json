@@ -6422,5 +6422,2425 @@
    "ambiente": "03",
    "estilo": "moldura_preta"
   }
+ ],
+ "6293": [
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6294": [
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6295": [
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6296": [
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6297": [
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6298": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6300": [
+  {
+   "ambiente": "09",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6301": [
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6303": [
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6306": [
+  {
+   "ambiente": "07",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6308": [
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6309": [
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6310": [
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6311": [
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6312": [
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6313": [
+  {
+   "ambiente": "21",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6314": [
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6315": [
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6316": [
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6318": [
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6319": [
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6320": [
+  {
+   "ambiente": "16",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6324": [
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6325": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6326": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6327": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6328": [
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6329": [
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6331": [
+  {
+   "ambiente": "14",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6332": [
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6334": [
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6335": [
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6337": [
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6339": [
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6340": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6341": [
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6342": [
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6343": [
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6344": [
+  {
+   "ambiente": "16",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6345": [
+  {
+   "ambiente": "12",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6346": [
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6347": [
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6348": [
+  {
+   "ambiente": "07",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6349": [
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6350": [
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6351": [
+  {
+   "ambiente": "18",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6352": [
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6353": [
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6354": [
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6355": [
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6356": [
+  {
+   "ambiente": "11",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6357": [
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6358": [
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6359": [
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6362": [
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6363": [
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6364": [
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6365": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6366": [
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6367": [
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6370": [
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6372": [
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6373": [
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6374": [
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6375": [
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6376": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6377": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6378": [
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6379": [
+  {
+   "ambiente": "12",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6380": [
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6381": [
+  {
+   "ambiente": "04",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6382": [
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6383": [
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6384": [
+  {
+   "ambiente": "15",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6385": [
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6389": [
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6391": [
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6392": [
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6393": [
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6395": [
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6396": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6397": [
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6398": [
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6399": [
+  {
+   "ambiente": "13",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6400": [
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6401": [
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6402": [
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6404": [
+  {
+   "ambiente": "03",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6405": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6406": [
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6407": [
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6409": [
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6410": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6411": [
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6412": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6413": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6416": [
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6417": [
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6418": [
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "borda_infinita"
+  }
+ ],
+ "6419": [
+  {
+   "ambiente": "17",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6421": [
+  {
+   "ambiente": "10",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "20",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6422": [
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "19",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6423": [
+  {
+   "ambiente": "21",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "09",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "18",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6425": [
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "11",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6426": [
+  {
+   "ambiente": "20",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "16",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6430": [
+  {
+   "ambiente": "03",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "07",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6432": [
+  {
+   "ambiente": "09",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "08",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "06",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "17",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6433": [
+  {
+   "ambiente": "05",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "01",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "04",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "10",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "14",
+   "estilo": "moldura_branca"
+  }
+ ],
+ "6434": [
+  {
+   "ambiente": "08",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "13",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "15",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  },
+  {
+   "ambiente": "21",
+   "estilo": "moldura_preta"
+  }
+ ],
+ "6437": [
+  {
+   "ambiente": "04",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "22",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "05",
+   "estilo": "moldura_branca"
+  },
+  {
+   "ambiente": "12",
+   "estilo": "moldura_preta"
+  },
+  {
+   "ambiente": "02",
+   "estilo": "borda_infinita"
+  }
  ]
 }
